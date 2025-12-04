@@ -341,23 +341,7 @@ Las contribuciones son bienvenidas. Por favor, sigue estos pasos:
 ## 📝 Licencia
 
 Este proyecto es parte de un proyecto académico del CBTis 258. Todos los derechos reservados.
+5A PROGRMACION FOOTERS TV
 
-## 👥 Autores
-
-- **Sergio** - [sergiodev3](https://github.com/sergiodev3)
-
-## 🙏 Agradecimientos
-
-- Centro de Bachillerato Tecnológico industrial y de servicios No. 258 "Mariano Escobedo"
-- Creative Tim por el template Light Bootstrap Dashboard
-- Comunidad de Open Source por las librerías utilizadas
-
-## 📞 Contacto
-
-Para preguntas o soporte:
-- GitHub: [@sergiodev3](https://github.com/sergiodev3)
-- Proyecto: [https://github.com/sergiodev3/proyecto-talleres-cbtis258](https://github.com/sergiodev3/proyecto-talleres-cbtis258)
-
----
 
 ⭐ Si este proyecto te fue útil, considera darle una estrella en GitHub!
